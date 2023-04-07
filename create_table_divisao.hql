@@ -1,4 +1,4 @@
-CREATE EXTERNAL TABLE IF NOT EXISTS desafiofinal.divisao ( 
+CREATE EXTERNAL TABLE IF NOT EXISTS DESAFIO_CURSO.divisao ( 
 division string,
 division_name string
 )
