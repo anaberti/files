@@ -1,4 +1,4 @@
-CREATE EXTERNAL TABLE IF NOT EXISTS desafiofinal.vendas ( 
+CREATE EXTERNAL TABLE IF NOT EXISTS DESAFIO_CURSO.vendas ( 
 actual_delivery_date string,
 customer_key string,
 date_key string,
