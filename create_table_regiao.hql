@@ -1,4 +1,4 @@
-CREATE EXTERNAL TABLE IF NOT EXISTS desafiofinal.regiao ( 
+CREATE EXTERNAL TABLE IF NOT EXISTS DESAFIO_CURSO.regiao ( 
 region_code string,
 region_name string
 )
