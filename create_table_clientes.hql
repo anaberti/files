@@ -1,4 +1,4 @@
-CREATE EXTERNAL TABLE IF NOT EXISTS desafiofinal.clientes ( 
+CREATE EXTERNAL TABLE IF NOT EXISTS DESAFIO_CURSO.clientes ( 
 address_number string,
 business_family string,
 business_unit string,
