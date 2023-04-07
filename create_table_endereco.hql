@@ -1,4 +1,4 @@
-CREATE EXTERNAL TABLE IF NOT EXISTS DESAFIO_CURSO.endereco ( 
+CREATE EXTERNAL TABLE IF NOT EXISTS DESAFIO_CURSO.TBL_ENDERECO ( 
 address_number string,
 city string,
 country string,
