@@ -1,0 +1,340 @@
+city;country;state;region_code;region_name
+Morton;US;IL;4;Central
+Maxwell;US;CA;1;Western
+Meridian;US;MS;2;Southern
+St Louis Park;US;MN;4;Central
+Houston;US;TX;2;Southern
+Beamsville;CA;ON;0;Canada
+Irving;US;TX;2;Southern
+Eugene;US;OR;1;Western
+Stewartsville;US;NJ;3;Northeast
+Overland Park;US;KS;4;Central
+Gretna;US;LA;2;Southern
+Roanoke;US;VA;3;Northeast
+Milesburg;US;PA;3;Northeast
+Tampa;US;FL;2;Southern
+Istanbul;AU;Não informado;5;International
+Shady Grove;US;PA;3;Northeast
+Janesville;US;WI;4;Central
+Newport;US;MI;4;Central
+Cape Girardeau;US;MO;4;Central
+Coldwater;US;MI;4;Central
+North Little Rock;US;AR;2;Southern
+Gardena;US;CA;1;Western
+Quezon City;IR;Não informado;5;International
+West Sayville;US;NY;3;Northeast
+Okarche;US;OK;2;Southern
+Boise;US;ID;1;Western
+Hammond;US;IN;4;Central
+Billings;US;MT;1;Western
+Sao Paulo;UK;Não informado;5;International
+Oakville;CA;ON;0;Canada
+Valencia;UK;Não informado;5;International
+Valparaiso;US;IN;4;Central
+Não informado;AU;Não informado;5;International
+Saginaw;US;AL;2;Southern
+Nashville;US;TN;2;Southern
+Saskatoon;CA;SK;0;Canada
+Mechanicsville;US;VA;3;Northeast
+Taipei;AU;Não informado;5;International
+Ooltewah;US;TN;2;Southern
+Livonia;US;MI;4;Central
+Cleveland;US;TX;2;Southern
+Greenwood;US;MS;2;Southern
+Independence;US;MO;4;Central
+Aurora;US;IL;4;Central
+Vinton;US;VA;3;Northeast
+Bedford;US;OH;4;Central
+La Paz;UK;Não informado;5;International
+Johnson City;US;TN;2;Southern
+Fredericksburg;US;VA;3;Northeast
+Mercer;US;PA;3;Northeast
+Shreveport;US;LA;2;Southern
+Mebane;US;NC;2;Southern
+Breckenridge;US;CO;1;Western
+City;Country;State;"";""
+Phoenix;US;AZ;1;Western
+Cypress;US;CA;1;Western
+Benicia;US;CA;1;Western
+Louisville;US;KY;2;Southern
+Valcourt;CA;QU;0;Canada
+Watervliet;US;MI;4;Central
+Kalamazoo;US;MI;4;Central
+East Providence;US;RI;3;Northeast
+Stockton;US;CA;1;Western
+Elma;US;NY;3;Northeast
+Bogota;UK;Não informado;5;International
+Milton;US;PA;3;Northeast
+St Joseph;US;MO;4;Central
+Pocahontas;US;IA;4;Central
+Hamamatsu City;AU;Não informado;5;International
+Ottawa;US;KS;4;Central
+Traverse City;US;MI;4;Central
+Plainfield;US;IN;4;Central
+Industriestrasse 17;UK;Não informado;5;International
+Orlando;US;FL;2;Southern
+Fort Smith;US;AR;2;Southern
+Warren;US;MI;4;Central
+Winnipeg;CA;MB;0;Canada
+1980 Santiago;UK;Não informado;5;International
+Beijing 100088;UK;Não informado;5;International
+Brea;US;CA;1;Western
+Cass City;US;MI;4;Central
+Jasper;US;TX;2;Southern
+Spring;US;TX;2;Southern
+Kansas City;US;KS;4;Central
+Oakland;US;CA;1;Western
+Edmonton;CA;AB;0;Canada
+Fresno;US;CA;1;Western
+Mississauga;CA;ON;0;Canada
+Thief River Falls;US;MN;4;Central
+Birmingham;US;AL;2;Southern
+Buffalo;US;NY;3;Northeast
+San Marcos;US;CA;1;Western
+Wester Chester;US;PA;3;Northeast
+Kilsyth;UK;Não informado;5;International
+Bensonville;US;IL;4;Central
+Beaumont;US;TX;2;Southern
+Salem;US;MA;3;Northeast
+Anchorage;US;AK;1;Western
+Savannah;US;GA;2;Southern
+Spokane;US;WA;1;Western
+Smyrna;US;TN;2;Southern
+Tupelo;US;MS;2;Southern
+Grand Rapids;US;MN;4;Central
+Andover;US;SD;4;Central
+Cramerton;US;NC;2;Southern
+Dearborn;US;MI;4;Central
+Schiphol-Rijk;IR;Não informado;5;International
+Milwaukie;US;OR;1;Western
+Amarillo;US;TX;2;Southern
+Bremen;UK;Não informado;5;International
+Middlebury;US;IN;4;Central
+Huntington Beach;US;CA;1;Western
+Wells;US;ME;3;Northeast
+Little Rock;US;AR;2;Southern
+Wooster;US;OH;4;Central
+Indianapolis;US;IN;4;Central
+N-0598 Oslo;IR;Não informado;5;International
+Tulare;US;CA;1;Western
+Modesto;US;CA;1;Western
+Bozeman;US;MT;1;Western
+Trinity Center;US;CA;1;Western
+Wayne;US;MI;4;Central
+ZI 1 Ducos;IR;Não informado;5;International
+Ormond Beach;US;FL;2;Southern
+Compton;US;CA;1;Western
+Joliet;US;IL;4;Central
+Pontiac;US;MI;4;Central
+Tumwater;US;WA;1;Western
+San Diego;US;CA;1;Western
+Missoula;US;MT;1;Western
+Santa Cruz;UK;Não informado;5;International
+Mobile;US;AL;2;Southern
+Shawano;US;WI;4;Central
+Raleigh;US;IL;4;Central
+Kansas City;US;MO;4;Central
+Norcross;US;GA;2;Southern
+112 Reyjavik;AU;Não informado;5;International
+Songtan SI;AU;Não informado;5;International
+Exeter;US;PA;3;Northeast
+Brookhaven;US;MS;2;Southern
+Pittsburgh;US;PA;3;Northeast
+Carcas;UK;Não informado;5;International
+A 5102 Anthering;UK;Não informado;5;International
+Regina;CA;SK;0;Canada
+Georgetown;AU;Não informado;5;International
+Oslo;US;MN;4;Central
+Fort Collins;US;CO;1;Western
+Augusta;US;GA;2;Southern
+North Hampton;US;NH;3;Northeast
+Kent;US;WA;1;Western
+Southfield;US;MI;4;Central
+D 95326 Kulmbach;UK;Não informado;5;International
+Montgomery;US;AL;2;Southern
+Prineville;US;OR;1;Western
+Oklahoma City;US;OK;2;Southern
+Guadalajara Jal Mexico;IR;Não informado;5;International
+Asuncion;UK;Não informado;5;International
+Evansville;US;IN;4;Central
+Chippewa Falls;US;WI;4;Central
+Buffdale;US;UT;1;Western
+Longview;US;TX;2;Southern
+4100 Porto;UK;Não informado;5;International
+Panama Rep De Panama;IR;Não informado;5;International
+New Castle;US;IN;4;Central
+West Jordan;US;UT;1;Western
+Jackson;US;MS;2;Southern
+Lake Hamilton;US;FL;2;Southern
+Elkhart;US;IN;4;Central
+Fairview;US;NJ;3;Northeast
+Marshfield;US;WI;4;Central
+Sacramento;US;CA;1;Western
+Rapid City;US;SD;4;Central
+Irvine;US;CA;1;Western
+Pearl;US;MS;2;Southern
+Beirut;AU;Não informado;5;International
+Toronto;CA;ON;0;Canada
+Villa Rica;US;GA;2;Southern
+Chicago;US;IL;4;Central
+Lansing;US;MI;4;Central
+Te Rapa Hamilton;US;MS;2;Southern
+Pocatello;US;ID;1;Western
+Creedmoor;US;NC;2;Southern
+Jacksonville;US;FL;2;Southern
+Whitehouse;US;TN;2;Southern
+Charlotte;US;NC;2;Southern
+Aurora;US;OR;1;Western
+Flint;US;MI;4;Central
+Surrey;CA;BC;0;Canada
+Rancho Cordova;US;CA;1;Western
+Boucherville;CA;QU;0;Canada
+Medford;US;MA;3;Northeast
+Seocho-GU;AU;Não informado;5;International
+Lennox;US;SD;4;Central
+Corona;US;CA;1;Western
+Wheatridge;US;CO;1;Western
+Columbiana;US;OH;4;Central
+New Orleans;US;LA;2;Southern
+St Louis;US;MO;4;Central
+Rexburg;US;ID;1;Western
+Wrightsville;US;PA;3;Northeast
+Sparks;US;NV;1;Western
+Indianopolis;US;IN;4;Central
+Grand Rapids;US;MI;4;Central
+Fairmount;US;IN;4;Central
+Poplar Bluff;US;MO;4;Central
+Nesquehoning;US;PA;3;Northeast
+Costa Mesa;US;CA;1;Western
+Crestwood;US;IL;4;Central
+Laurel;US;MS;2;Southern
+Dubai;UK;Não informado;5;International
+Hazelwood;US;MO;4;Central
+Philadelphia;US;PA;3;Northeast
+Van Nuys;US;CA;1;Western
+Hermitage;US;PA;3;Northeast
+El Paso;US;TX;2;Southern
+Springfield;US;MO;4;Central
+North Highlands;US;CA;1;Western
+Libby;US;MT;1;Western
+Miami;US;FL;2;Southern
+Saginaw;US;MI;4;Central
+Framingham;US;MA;3;Northeast
+New Hampton;US;IA;4;Central
+Albany;US;OR;1;Western
+Bedford Hills;US;NY;3;Northeast
+Calgary;CA;AB;0;Canada
+Sioux Center;US;IA;4;Central
+Des Moines;US;IA;4;Central
+Waterville;US;KS;4;Central
+Okolona;US;MS;2;Southern
+Statesville;US;NC;2;Southern
+Columbus;US;OH;4;Central
+Canton;US;OH;4;Central
+Buda;US;TX;2;Southern
+Richmond;US;VA;3;Northeast
+Auburn;US;WA;1;Western
+Ingersoll;CA;ON;0;Canada
+Kanagawa;AU;Não informado;5;International
+Fort Macleod;CA;AB;0;Canada
+Mentor;US;OH;4;Central
+Puyallup;US;WA;1;Western
+Furstentum;AU;Não informado;5;International
+West Midlands;UK;Não informado;5;International
+Highland;US;IL;4;Central
+Ocala;US;FL;2;Southern
+FIN 00710;UK;Não informado;5;International
+Jeddah;AU;Não informado;5;International
+Elizabethtown;US;KY;2;Southern
+Quito;UK;Não informado;5;International
+Clackamas;US;OR;1;Western
+Winnepeg;CA;MB;0;Canada
+Placentia;US;CA;1;Western
+Pomona;US;CA;1;Western
+"";"";"";5;International
+Odessa;US;TX;2;Southern
+Milwaukie;US;WI;4;Central
+Sidney;US;NE;4;Central
+Santiago;UK;Não informado;5;International
+Ft Collins;US;CO;1;Western
+Cali;UK;Não informado;5;International
+Enumclaw;US;WA;1;Western
+Brownsville;US;TX;2;Southern
+Hillsboro;US;OR;1;Western
+Linares (Jaen);UK;Não informado;5;International
+McHenry;US;IL;4;Central
+Ruwi;IR;Não informado;5;International
+Sollinge Molle;UK;Não informado;5;International
+Chattanooga;US;TN;2;Southern
+Dover;US;OH;4;Central
+Clemson;US;SC;2;Southern
+2215 TC Voorhout;IR;Não informado;5;International
+Shelby;US;NC;2;Southern
+Salt Lake City;US;UT;1;Western
+Frederick;US;MD;3;Northeast
+Tuscon;US;AZ;1;Western
+Garner;US;IA;4;Central
+Greenville;US;SC;2;Southern
+Memphis;US;TN;2;Southern
+Eagan;US;MN;4;Central
+Prince George;CA;BC;0;Canada
+Dallas;US;TX;2;Southern
+Seoul;AU;Não informado;5;International
+Somerset;US;NJ;3;Northeast
+Calhoun;US;LA;2;Southern
+Cleveland;US;MS;2;Southern
+Baton Rouge;US;LA;2;Southern
+Montreal;CA;QU;0;Canada
+Portland;US;OR;1;Western
+EE 0026 Tallinn;UK;Não informado;5;International
+Atlanta;US;GA;2;Southern
+Manassas;US;VA;3;Northeast
+Casper;US;WY;1;Western
+Depere;US;WI;4;Central
+Hamel;US;MN;4;Central
+San Jose;UK;Não informado;5;International
+MOLINE;US;IL;4;Central
+Não informado;UK;Não informado;5;International
+SE-132 28 Saltsjo-Boo;AU;Não informado;5;International
+Beaverton;US;OR;1;Western
+Holden;US;LA;2;Southern
+Monroe;US;WI;4;Central
+Tigard;US;OR;1;Western
+Medford;US;OR;1;Western
+Attica;US;IN;4;Central
+Cincinnati;US;OH;4;Central
+Waldorf;US;MD;3;Northeast
+Jakarta Utara;AU;Não informado;5;International
+Brookfield;US;WI;4;Central
+Duluth;US;GA;2;Southern
+Johannesburg;AU;Não informado;5;International
+San Antonio;US;TX;2;Southern
+Sun Prairie;US;WI;4;Central
+Moncton;CA;NB;0;Canada
+Goodlettsville;US;TN;2;Southern
+Burnaby;CA;BC;0;Canada
+Madrid;UK;Não informado;5;International
+Appleton;US;WI;4;Central
+Mechanicsburg;US;PA;3;Northeast
+Springhill;US;LA;2;Southern
+Tulsa;US;OK;2;Southern
+Lighthorne Warwick;UK;Não informado;5;International
+Troy;US;MI;4;Central
+Mitchell;US;SD;4;Central
+Lewiston;US;ME;3;Northeast
+West Point;US;PA;3;Northeast
+Anjou;CA;QU;0;Canada
+Pine Bluff;US;AR;2;Southern
+Petersburg;US;VA;3;Northeast
+Olive Branch;US;MS;2;Southern
+Fort Worth;US;TX;2;Southern
+Schertz;US;TX;2;Southern
+Redding;US;CA;1;Western
+Hialeah;US;FL;2;Southern
+Hayward;US;CA;1;Western
+Yakama;US;WA;1;Western
+Columbia;US;SC;2;Southern
+Colorado Springs;US;CO;1;Western
+El Cajon;US;CA;1;Western
+South Bend;US;IN;4;Central
+00-394 Warsaw;UK;Não informado;5;International
